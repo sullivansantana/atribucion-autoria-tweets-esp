@@ -1,0 +1,52 @@
+﻿# NO SUBIR DATOS CRUDOS (CSV)
+data/Raw/
+data/raw/
+*.csv
+*.xlsx
+*.xls
+
+# NO SUBIR EMBEDDINGS (PERO SÍ LOS Link.txt)
+*.npy
+*.npz
+data/embeddings/**/*.npy
+
+# NO SUBIR MODELOS
+*.pth
+*.pt
+*.h5
+*.keras
+*.joblib
+*.pkl
+*.pickle
+models/
+
+# NO SUBIR RESULTADOS
+resultados/
+results/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# BASURA DE PYTHON
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# BASURA DE EDITORES
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# COMPRIMIDOS Y LOGS
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.log
