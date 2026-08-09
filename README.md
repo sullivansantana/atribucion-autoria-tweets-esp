@@ -76,6 +76,7 @@ El pipeline sigue un flujo de trabajo modular que abarca todo el ciclo de vida d
 
 ## 📂 Estructura del Repositorio
 
+```txt
 atribucion-autoria-tweets-esp/
 ├── notebooks/
 │   ├── 01_preprocesamiento.ipynb
@@ -84,18 +85,18 @@ atribucion-autoria-tweets-esp/
 │   ├── 04_clasificacion_svm.ipynb
 │   └── 05_comparativa_resultados.ipynb
 ├── data/
-│   ├── Raw/                    # Datos crudos (CSVs en Drive)
-│   │   └── Link.txt            # Acceso a datos completos
+│   ├── Raw/                         # Datos crudos (CSVs en Drive)
+│   │   └── Link.txt                 # Acceso a datos completos
 │   └── embeddings/
 │       ├── SentenceTransformer/
-│       │   └── Link.txt        # Embeddings en Drive
+│       │   └── Link.txt             # Embeddings en Drive
 │       └── mex_state/
-│           └── Link.txt        # Embeddings en Drive
-├── imagenes/                   # Imágenes para documentación
-├── resultados/                 # Figuras y visualizaciones
+│           └── Link.txt             # Embeddings en Drive
+├── imagenes/                        # Imágenes para documentación
+├── resultados/                      # Figuras y visualizaciones
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## 🔬 Análisis de Resultados
