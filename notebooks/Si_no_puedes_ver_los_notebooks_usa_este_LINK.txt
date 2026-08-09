@@ -1,0 +1,3 @@
+Si no puedes ver los notebooks directamente en GitHub pega el link del que necesites aquí:
+
+https://nbviewer.org/
