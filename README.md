@@ -35,7 +35,7 @@ El pipeline sigue un flujo de trabajo modular que abarca todo el ciclo de vida d
 ## 🧠 Pipeline del Proyecto
 
 
-<img src="https://raw.githubusercontent.com/sullivansantana/atribucion-autoria-tweets-esp/main/imagenes/pipeline.jpg" alt="Pipeline del proyecto" width="600">
+<img src="https://raw.githubusercontent.com/sullivansantana/atribucion-autoria-tweets-esp/main/imagenes/pipeline.jpg?v=2" alt="Pipeline del proyecto" width="600">
 
 ---
 
