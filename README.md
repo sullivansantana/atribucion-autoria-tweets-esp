@@ -151,7 +151,10 @@ Los autores con estilos de escritura más distintivos y consistentes:
 
 El modelo **MexSmall** (especializado en tweets mexicanos) combinado con una **red neuronal MLP** logra la mejor precisión (64.13%), demostrando que la especialización lingüística y regional es clave para este tipo de tareas.
 
+### Boxplot - Clases (Red Neuronal)
 
+<img src="https://raw.githubusercontent.com/sullivansantana/atribucion-autoria-tweets-esp/main/resultados/boxplot_clases_red_neuronal.jpeg" alt="Boxplot Clases Red Neuronal" width="600">
 
+### Boxplot - Clases (SVM)
 
-
+<img src="https://raw.githubusercontent.com/sullivansantana/atribucion-autoria-tweets-esp/main/resultados/boxplot_clases_svm.jpeg" alt="Boxplot Clases SVM" width="600">
