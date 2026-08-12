@@ -1,4 +1,4 @@
-﻿# NO SUBIR DATOS CRUDOS (CSV)
+# NO SUBIR DATOS CRUDOS (CSV)
 data/Raw/
 data/raw/
 *.csv
@@ -20,13 +20,9 @@ data/embeddings/**/*.npy
 *.pickle
 models/
 
-# NO SUBIR RESULTADOS
-resultados/
+# NO SUBIR RESULTADOS (ahora se permiten HTML, PDF e imágenes)
+# resultados/          ← comentada para permitir la carpeta
 results/
-*.pdf
-*.png
-*.jpg
-*.jpeg
 
 # BASURA DE PYTHON
 __pycache__/
