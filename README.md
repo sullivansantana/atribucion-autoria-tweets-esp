@@ -153,7 +153,8 @@ El modelo **MexSmall** (especializado en tweets mexicanos) combinado con una **r
 
 ### Boxplot - Clases (Red Neuronal)
 
-<img src="https://raw.githubusercontent.com/sullivansantana/atribucion-autoria-tweets-esp/main/resultados/boxplot_clases_red_neuronal.jpeg" alt="Boxplot Clases Red Neuronal" width="600">
+<img src="https://github.com/sullivansantana/atribucion-autoria-tweets-esp/blob/main/imagenes/pipeline.jpg" width="600">
+
 
 ### Boxplot - Clases (SVM)
 
