@@ -7,7 +7,7 @@
 
 # 📋 Contexto del Problema
 
-En un contexto global marcado por la desinformación y la polarización política (Foro Económico Mundial, 2024), las redes sociales han dado lugar a la figura del opinólogo: aquel que "habla sin saber, cuyas intervenciones causan estragos en el avance de proyectos" (Tandem, 2021).
+En un contexto global marcado por la desinformación y la polarización política (Foro Económico Mundial, 2024), las redes sociales han dado lugar a la figura del opinólogo: personas respetadas en algún campo que creen que esa experticia los autoriza a opinar sobre todos los demás. Se trata de quienes “hablan sin saber, cuyas intervenciones causan estragos en el avance de proyectos” (Tandem, 2021).
 
 Este proyecto busca contribuir a mitigar este fenómeno mediante una herramienta de Ciencia de Datos que permita:
 - Clasificar la autoría de un tweet basándose en rasgos estilísticos
